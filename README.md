@@ -1,6 +1,9 @@
 <!-- Background Image -->
 ![Background](https://www.linkedin.com/in/hasancodex/overlay/background-image/)
 
+<!-- Background Image -->
+![Background](https://www.linkedin.com/in/hasancodex/overlay/background-image/)
+
 
 ### 💫 About Me:
 # Hi there, I'm *Mehedi Hasan* 👋
