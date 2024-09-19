@@ -1,8 +1,7 @@
 <!-- Background Image -->
 ![Background](https://www.linkedin.com/in/hasancodex/overlay/background-image/)
 
-<!-- Background Image -->
-![Background](https://www.linkedin.com/in/hasancodex/overlay/background-image/)
+
 
 
 ### 💫 About Me:
