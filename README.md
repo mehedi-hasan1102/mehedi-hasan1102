@@ -14,9 +14,10 @@ Experienced MERN Stack Developer skilled in crafting dynamic web applications wi
 ### 💻  Skills:
 
 
-- JavaScript
+
 - HTML 5
 - CSS 3
+- JavaScript
 - React
 
 ### 👨‍💻  Current Focus:
