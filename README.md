@@ -2,7 +2,7 @@
 ![Background](https://i.imgur.com/SJ2Dda7.jpg)
 
 # <span style="color:#4A90E2;">Hi, I'm <strong>Mehedi Hasan</strong> 👋</span>  
-### <span style="background-color:#E0F7FA; color:#006064; padding:5px 10px; border-radius:5px;">MERN Stack Web Developer | Innovator | Problem Solver</span>  
+### <span style="background-color:#E0F7FA; color:#006064; padding:5px 10px; border-radius:5px;">Programmer 💻 | Entrepreneur 🚀 | Social Worker 🤝</span>  
 
 I'm a passionate MERN Stack Developer from **Bangladesh**, dedicated to building user-centric web applications. My goal is to combine creativity and technical expertise to deliver impactful projects.
 
