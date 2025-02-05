@@ -53,8 +53,10 @@ I am a **passionate MERN Stack Developer** from **Bangladesh** 🌍, dedicated t
 </p>
 
 📊 **GitHub Contribution Graph**  
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=hasancodex&theme=react-dark)  
-
+<!-- ![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=hasancodex&theme=react-dark)   -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hasancodex&theme=react&hide_border=true&include_all_commits=true&count_private=true)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hasancodex&theme=react&hide_border=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hasancodex&theme=react&hide_border=true&layout=compact)
 ---
 
 ## 📌 **Top Contributed Repositories**  
