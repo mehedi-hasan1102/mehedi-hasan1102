@@ -45,7 +45,7 @@ I'm a passionate MERN Stack Developer from **Bangladesh**, dedicated to building
 ---
 
 ## 🌐 <span style="color:#4A90E2;">**Connect With Me**</span>  
-💌 [Email](mailto:mehedi.hasan246@outlook.com) | 🐙 [GitHub](https://github.com/HasanCodeX) | 💼 [LinkedIn](https://www.linkedin.com/in/HasanCodeX/) | 📘 [Facebook](https://www.facebook.com/HasanCodeX) | 📸 [Instagram](https://www.instagram.com/HasanCodeX/) | 🐦 [Twitter](https://twitter.com/HasanCodeX)
+💌 [Email](mailto:dev.hasan10@gmail.com) | 🐙 [GitHub](https://github.com/HasanCodeX) | 💼 [LinkedIn](https://www.linkedin.com/in/HasanCodeX/) | 📘 [Facebook](https://www.facebook.com/HasanCodeX) | 📸 [Instagram](https://www.instagram.com/HasanCodeX/) | 🐦 [Twitter](https://twitter.com/HasanCodeX)
 
 ---
 
