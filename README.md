@@ -5,14 +5,13 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4A90E2&center=true&width=435&lines=MERN+Stack+Developer+💻;Aspiring+Entrepreneur+🚀;Social+Worker+🤝" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4A90E2&center=true&width=550&lines=MERN+Stack+Developer+💻;Aspiring+Entrepreneur+🚀;Social+Worker+🤝" />
   </a>
 </p>
 
 ---
 
 ## 💡 About Me  
-
 I am a **passionate MERN Stack Developer** from **Bangladesh** 🌍, dedicated to building **user-centric web applications**. My goal is to **combine creativity and technical expertise** to deliver impactful projects.  
 
 ---
@@ -52,19 +51,19 @@ I am a **passionate MERN Stack Developer** from **Bangladesh** 🌍, dedicated t
 ---
 
 ## 🔥 **GitHub Stats**  
- 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hasancodex&theme=react&hide_border=true&include_all_commits=true&count_private=true)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hasancodex&theme=react&hide_border=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hasancodex&theme=react&hide_border=true&layout=compact) 
 
-[![Mehedi's GitHub Contribution Graph](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hasancodex&theme=github_dark)](https://github.com/hasancodex)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hasancodex&theme=react&hide_border=true&include_all_commits=true&count_private=true" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hasancodex&theme=react&hide_border=true" width="48%"/>
+</p>
 
-[![](https://raw.githubusercontent.com/vn7n24fzkq/vn7n24fzkq/master/profile-summary-card-output/solarized/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/vn7n24fzkq/vn7n24fzkq/master/profile-summary-card-output/solarized/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/vn7n24fzkq/master/profile-summary-card-output/solarized/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/vn7n24fzkq/vn7n24fzkq/master/profile-summary-card-output/solarized/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/vn7n24fzkq/master/profile-summary-card-output/solarized/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hasancodex&theme=react&hide_border=true&layout=compact)
 
 ---
-<!-- <img src="https://gitroll.io/api/badges/profiles/v1/uN2M2xj5b5FSZxIWUW8wy1HfBzB53" alt="GitHub Profile Badge" width="600"> -->
+
+## 📊 **GitHub Contribution Graph**  
+
+[![Mehedi's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hasancodex&theme=react-dark&bg_color=0D1117&hide_border=true)](https://github.com/hasancodex)
 
 ---
 
@@ -76,7 +75,7 @@ I am a **passionate MERN Stack Developer** from **Bangladesh** 🌍, dedicated t
 
 ## 🎯 **Let's Connect!**  
 
-💌 [Email](mailto:dev.hasan10@gmail.com)  
+📧 [Email](mailto:dev.hasan10@gmail.com)  
 🐙 [GitHub](https://github.com/HasanCodeX)  
 💼 [LinkedIn](https://www.linkedin.com/in/HasanCodeX/)  
 📘 [Facebook](https://www.facebook.com/HasanCodeX)  
@@ -98,4 +97,4 @@ Because they never let state get too emotional! 😄
 
 ---
 
-🚀 **Thanks for stopping by! Keep coding & keep growing!**  🚀
+🚀 **Thanks for stopping by! Keep coding & keep growing!** 🚀
