@@ -87,4 +87,4 @@ Because they never let state get too emotional! 😄
 
 ---
 
-[![Visitor Count](https://visitcount.itsvg.in/api?id=hasancodex&icon=0&color=6)](https://visitcount.itsvg.in)
+<!-- [![Visitor Count](https://visitcount.itsvg.in/api?id=hasancodex&icon=0&color=6)](https://visitcount.itsvg.in) -->
