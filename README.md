@@ -55,7 +55,7 @@ I am a **passionate MERN Stack Developer** from **Bangladesh** 🌍, dedicated t
 
 
 <p align="center"></p>
-    <img src="https://github-readme-stats.vercel.app/api?username=hasancodex&show_icons=true&theme=tokyonight&count_private=true" width="75%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=hasancodex&show_icons=true&theme=tokyonight&count_private=true" width="55%" />
     <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=hasancodex&theme=tokyonight" width="49%" /> -->
 </p>
 
