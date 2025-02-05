@@ -52,16 +52,13 @@ I am a **passionate MERN Stack Developer** from **Bangladesh** 🌍, dedicated t
 ---
 
 ## 🔥 **GitHub Stats**  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hasancodex&show_icons=true&theme=react&count_private=true" width="50%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hasancodex&theme=react" width="50%" />
-</p>
-
-📊 **GitHub Contribution Graph**  
+ 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hasancodex&theme=react&hide_border=true&include_all_commits=true&count_private=true)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hasancodex&theme=react&hide_border=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hasancodex&theme=react&hide_border=true&layout=compact)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hasancodex&theme=react&hide_border=true&layout=compact) 
+
+[![Mehedi's GitHub Contribution Graph](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hasancodex&theme=github_dark)](https://github.com/hasancodex)
+
 
 ---
 
