@@ -49,16 +49,15 @@ I am a **passionate MERN Stack Developer** from **Bangladesh** 🌍, dedicated t
 
 
 
-[![](https://raw.githubusercontent.com/hasancodex/hasancodex/master/profile-summary-card-output/solarized/0-profile-details.svg)](https://github.com/hasancodex/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/hasancodex/hasancodex/master/profile-summary-card-output/solarized/1-repos-per-language.svg)](https://github.com/hasancodex/github-profile-summary-cards) [![](https://raw.githubusercontent.com/hasancodex/hasancodex/master/profile-summary-card-output/solarized/2-most-commit-language.svg)](https://github.com/hasancodex/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/hasancodex/hasancodex/master/profile-summary-card-output/solarized/3-stats.svg)](https://github.com/hasancodex/github-profile-summary-cards) [![](https://raw.githubusercontent.com/hasancodex/hasancodex/master/profile-summary-card-output/solarized/4-productive-time.svg)](https://github.com/hasancodex/github-profile-summary-cards)
 
 
 ## 🔥 **GitHub Stats**  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hasancodex&show_icons=true&theme=tokyonight&count_private=true" width="49%" />
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=hasancodex&theme=tokyonight" width="49%" />
+  (https://github-readme-stats.vercel.app/api?username=hasancodex&theme=react&hide_border=true&include_all_commits=true&count_private=true)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hasancodex&theme=react&hide_border=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hasancodex&theme=react&hide_border=true&layout=compact)
+
 
 </p>
 
