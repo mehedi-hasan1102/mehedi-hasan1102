@@ -5,20 +5,25 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4A90E2&center=true&width=550&lines=MERN+Stack+Developer+💻;Aspiring+Entrepreneur+🚀;Social+Worker+🤝" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4A90E2&center=true&width=600&lines=MERN+Stack+Developer+💻;Aspiring+Entrepreneur+🚀;Social+Worker+🤝;Open+Source+Contributor+🌍" />
   </a>
 </p>
 
 ---
 
-## 💡 About Me  
-I am a **passionate MERN Stack Developer** from **Bangladesh** 🌍, dedicated to building **user-centric web applications**. My goal is to **combine creativity and technical expertise** to deliver impactful projects.  
+## 🚀 About Me  
+
+I am a **passionate MERN Stack Developer** from **Bangladesh** 🌍, dedicated to building **scalable and user-friendly applications**. My goal is to **bridge creativity with technical expertise** to develop impactful projects.   
+
+🔹 Crafting **dynamic UIs** with React & TailwindCSS.  
+🔹 Building **scalable APIs** with Node.js & Express.  
+🔹 Passionate about **open-source contributions** and community building.
 
 ---
 
-## 🛠️ **Technical Skills**  
+## 🛠️ **Tech Stack**  
 
-### 🚀 **Frontend Development**  
+### 🚀 **Frontend**  
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
@@ -26,15 +31,15 @@ I am a **passionate MERN Stack Developer** from **Bangladesh** 🌍, dedicated t
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)  
 
-### 🏗️ **Backend Development**  
+### 🏗️ **Backend**  
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)  
 
-### 🗄️ **Database Management**  
+### 🗄️ **Database**  
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
 ![Mongoose](https://img.shields.io/badge/-Mongoose-red?style=for-the-badge&logo=mongoose&logoColor=white)  
 
-### ⚡ **Tools & Workflow**  
+### ⚡ **Tools**  
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
@@ -42,40 +47,27 @@ I am a **passionate MERN Stack Developer** from **Bangladesh** 🌍, dedicated t
 
 ---
 
-## 🌱 **Current Focus**  
-
-- 🔹 Building a **robust portfolio** with challenging projects.  
-- 🔹 Exploring **Redux** for advanced state management.  
-- 🔹 Enhancing skills in **performance optimization**.  
-
----
-
 ## 🔥 **GitHub Stats**  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hasancodex&theme=react&hide_border=true&include_all_commits=true&count_private=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hasancodex&theme=react&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=hasancodex&show_icons=true&theme=tokyonight&count_private=true" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hasancodex&theme=tokyonight" width="49%" />
 </p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hasancodex&theme=react&hide_border=true&layout=compact)
-
----
-
-## 📊 **GitHub Contribution Graph**  
-
-[![Mehedi's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hasancodex&theme=react-dark&bg_color=0D1117&hide_border=true)](https://github.com/hasancodex)
+📊 **GitHub Contribution Graph**  
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hasancodex&theme=react-dark)  
 
 ---
 
 ## 📌 **Top Contributed Repositories**  
 
-![Top Repositories](https://github-contributor-stats.vercel.app/api?username=hasancodex&limit=5&theme=react&combine_all_yearly_contributions=true)  
+![Top Repositories](https://github-contributor-stats.vercel.app/api?username=hasancodex&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)  
 
 ---
 
 ## 🎯 **Let's Connect!**  
 
-📧 [Email](mailto:dev.hasan10@gmail.com)  
+💌 [Email](mailto:dev.hasan10@gmail.com)  
 🐙 [GitHub](https://github.com/HasanCodeX)  
 💼 [LinkedIn](https://www.linkedin.com/in/HasanCodeX/)  
 📘 [Facebook](https://www.facebook.com/HasanCodeX)  
@@ -93,7 +85,7 @@ Because they never let state get too emotional! 😄
 
 ## ✍️ **Random Dev Quote**  
 
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=react)  
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)  
 
 ---
 
