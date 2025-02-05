@@ -54,10 +54,8 @@ I am a **passionate MERN Stack Developer** from **Bangladesh** 🌍, dedicated t
 ## 🔥 **GitHub Stats**  
 
 <p align="center">
-  (https://github-readme-stats.vercel.app/api?username=hasancodex&theme=react&hide_border=true&include_all_commits=true&count_private=true)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hasancodex&theme=react&hide_border=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hasancodex&theme=react&hide_border=true&layout=compact)
-
+  <img src="https://github-readme-stats.vercel.app/api?username=hasancodex&show_icons=true&theme=tokyonight&count_private=true" width="100%" />
+ <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=hasancodex&theme=tokyonight" width="49%" /> -->
 
 </p>
 
