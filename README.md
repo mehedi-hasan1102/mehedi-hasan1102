@@ -66,7 +66,9 @@ I am a **passionate MERN Stack Developer** from **Bangladesh** 🌍, dedicated t
 
 ## 📌 **Top Contributed Repositories**  
 
-![Top Repositories](https://github-contributor-stats.vercel.app/api?username=hasancodex&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)  
+![Top Repositories]
+<img src="https://github-contributor-stats.vercel.app/api?username=hasancodex&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" width="100%>
+()  
 
 ---
 
