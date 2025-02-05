@@ -55,24 +55,24 @@ I am a **passionate MERN Stack Developer** from **Bangladesh** 🌍, dedicated t
 
 
 <p align="center"></p>
-    <img src="https://github-readme-stats.vercel.app/api?username=hasancodex&show_icons=true&theme=tokyonight&count_private=true" width="80%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=hasancodex&show_icons=true&theme=tokyonight&count_private=true" width="75%" />
     <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=hasancodex&theme=tokyonight" width="49%" /> -->
 </p>
 
 
 
 📊 **GitHub Contribution Graph** 
-<p align="center">
+ 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hasancodex&theme=react-dark)  
 
 ---
-<p>
+
 ## 📌 **Top Contributed Repositories**  
-<p align="center">
+
 ![Top Repositories](https://github-contributor-stats.vercel.app/api?username=hasancodex&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)  
 
 ---
-<p>
+
 ## 🎯 **Let's Connect!**  
 
 💌 [Email](mailto:dev.hasan10@gmail.com)  
