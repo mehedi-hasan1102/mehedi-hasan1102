@@ -53,8 +53,8 @@ I am a **passionate MERN Stack Developer** from **Bangladesh** 🌍, dedicated t
 
 ## 🔥 **GitHub Stats**  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hasancodex&show_icons=true&theme=tokyonight&count_private=true" width="100%" />
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=hasancodex&show_icons=true&theme=tokyonight&count_private=true" width="50%" />
  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=hasancodex&theme=tokyonight" width="49%" /> -->
 
 </p>
@@ -66,9 +66,7 @@ I am a **passionate MERN Stack Developer** from **Bangladesh** 🌍, dedicated t
 
 ## 📌 **Top Contributed Repositories**  
 
-![Top Repositories]
-<img src="https://github-contributor-stats.vercel.app/api?username=hasancodex&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" width="100%>
-()  
+![Top Repositories](https://github-contributor-stats.vercel.app/api?username=hasancodex&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)  
 
 ---
 
