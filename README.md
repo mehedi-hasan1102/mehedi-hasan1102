@@ -11,7 +11,7 @@
 
 ---
 
-## 🚀 About Me  
+ 
 
 # 💫 About Me:
 I am a passionate MERN Stack Developer from Bangladesh 🌍, dedicated to building scalable and user-friendly applications. My goal is to bridge creativity with technical expertise to develop impactful projects.<br><br>🔹 Crafting dynamic UIs with React & TailwindCSS.<br>🔹 Building scalable APIs with Node.js & Express.<br>🔹 Passionate about open-source contributions and community building.
