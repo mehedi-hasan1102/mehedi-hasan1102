@@ -1,6 +1,5 @@
 <!-- Background Image -->
-![Background](https://i.ibb.co.com/RT3Kxq6w/Blue-Modern-Corporate-Staff-Profile-Linked-In-Banner-2.png)
-
+![Background](https://i.ibb.co/RT3Kxq6w/Blue-Modern-Corporate-Staff-Profile-Linked-In-Banner-2.png)
 <h1 align="center">Hi, I'm Mehedi Hasan! 👋</h1>
 
 <p align="center">
