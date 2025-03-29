@@ -1,5 +1,5 @@
 <!-- Background Image -->
-![Background](https://i.imgur.com/SJ2Dda7.jpg)
+![Background](https://ibb.co.com/R4dnkdxs)
 
 <h1 align="center">Hi, I'm Mehedi Hasan! 👋</h1>
 
