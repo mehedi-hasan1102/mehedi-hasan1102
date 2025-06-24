@@ -21,7 +21,7 @@ I love creating **frontend-focused**, responsive and visually appealing web apps
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,nodejs,express,mongodb,vite,git,github,vercel,netlify,firebase" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,next,tailwind,nodejs,express,mongodb,vite,git,github,vercel,netlify,firebase" />
 </p>
 
 ---
