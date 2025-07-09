@@ -1,6 +1,6 @@
 <!-- 🔵 Banner Image -->
 <p align="center">
-  <img src="./Banner.png" alt="Blue Corporate LinkedIn Banner" />
+  <img src="./Hero.png" alt="Blue Corporate LinkedIn Banner" />
 </p>
 
 <!-- 🧠 Typing Header -->
