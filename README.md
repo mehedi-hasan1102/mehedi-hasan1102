@@ -21,11 +21,14 @@ I specialize in:
 - Delivering modern **MERN + TypeScript** applications  
 - Writing **clean, maintainable code** with a focus on best practices  
 
-📌 Explore my work:
+📂 Portfolio & Blog
 
 <p align="center">
   <a href="https://mehedi-h.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-4A90E2?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  <a href="https://dev.to/mehedihasan1102">
+    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/>
   </a>
 </p>
 
@@ -56,9 +59,7 @@ I specialize in:
   <a href="https://linkedin.com/in/mehedi-hasan1102"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://x.com/mehedihasan1102"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
   <a href="mailto:mehedi.hasan11023@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://dev.to/mehedihasan1102">
-    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/>
-  </a>
+  
 </p>
 
 ---
