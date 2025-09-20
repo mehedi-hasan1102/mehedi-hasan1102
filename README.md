@@ -21,7 +21,7 @@ I specialize in:
 - Delivering modern **MERN + TypeScript** applications  
 - Writing **clean, maintainable code** with a focus on best practices  
 
-📂 Portfolio & Blog
+📌 Portfolio & Blog :
 
 <p align="center">
   <a href="https://mehedi-h.vercel.app">
