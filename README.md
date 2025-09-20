@@ -1,28 +1,36 @@
-<!-- 🔵 Banner Image -->
+<!-- 🔵 Banner -->
 <p align="center">
   <img src="./Hero.png" alt="Professional LinkedIn-Style Banner" />
 </p>
 
-<!-- 🧠 Typing Header -->
+<!-- 🧑‍💻 Typing Intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F80ED&center=true&width=600&lines=Full+Stack+Developer;Backend+Focused+Engineer;API+%26+Database+Specialist;Scalable+System+Design" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F80ED&center=true&width=650&lines=Full+Stack+Developer;Backend+Focused+Engineer;API+%26+Database+Specialist;Scalable+System+Design" />
 </p>
 
 ---
 
 ## 👋 About Me  
 
-I’m **Mehedi Hasan**, a **Full Stack Developer** with a strong focus on **backend engineering**, based in **Bangladesh** 🇧🇩.  
+I’m **Mehedi Hasan**, a **Full Stack Developer (Backend Focused)** from **Bangladesh** 🇧🇩.  
 
-I specialize in building:  
-- **Robust APIs** and scalable backend services  
-- **Database-driven applications** with **MongoDB** & **MySQL**  
-- **Modern full stack projects** using **MERN + TypeScript**  
-- **Clean, maintainable code** with a focus on performance & security  
+I specialize in:  
+- Designing **scalable backend architectures**  
+- Building secure & performant **REST APIs** and services  
+- Managing **relational & NoSQL databases** (MySQL, MongoDB)  
+- Delivering modern **MERN + TypeScript** applications  
+- Writing **clean, maintainable code** with a focus on best practices  
 
-🔗 Explore my work:  
-- **Portfolio:** [mehedi-h.vercel.app](https://mehedi-h.vercel.app)  
-- **Blog:** [dev.to/mehedihasan1102](https://dev.to/mehedihasan1102)  
+📌 Explore my work:
+
+<p align="center">
+  <a href="https://mehedi-h.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-4A90E2?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  <a href="https://dev.to/mehedihasan1102">
+    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
@@ -48,12 +56,10 @@ I specialize in building:
 ## 🌐 Connect with Me  
 
 <p align="center">
-<!--   <a href="https://mehedi-h.vercel.app"><img src="https://img.shields.io/badge/Portfolio-4A90E2?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-  <a href="https://dev.to/mehedihasan1102"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/></a> -->
   <a href="https://linkedin.com/in/mehedi-hasan1102"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://x.com/mehedihasan1102"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
   <a href="mailto:mehedi.hasan11023@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<!--   <a href="https://github.com/mehedi-hasan1102"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a> -->
+  <a href="https://github.com/mehedi-hasan1102"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ---
@@ -68,12 +74,4 @@ I specialize in building:
 
 ---
 
-## ✍️ Developer Quote  
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
-
----
-
-<!-- Designed and maintained by Mehedi Hasan -->
+<!-- End of README -->
