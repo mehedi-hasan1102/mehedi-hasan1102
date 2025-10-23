@@ -5,8 +5,10 @@
 
 <!-- 🧑‍💻 Typing Intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F80ED&center=true&width=650&lines=Full+Stack+Developer;Backend+Focused+Engineer;API+%26+Database+Specialist;Scalable+System+Design" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=800&color=1DB954&center=true&width=700&lines=Full+Stack+Developer;Frontend+%26+Backend+Engineer;MERN+Stack+%26+Next.js+Specialist;Building+Scalable+Web+Applications;API+%26+Database+Expert" />
 </p>
+
+
 
 ---
 
