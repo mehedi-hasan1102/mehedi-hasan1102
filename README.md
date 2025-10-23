@@ -12,13 +12,13 @@
 
 ## 👋 About Me  
 
-I’m **Mehedi Hasan**, a **Full Stack Developer (Backend Focused)** from **Bangladesh** 🇧🇩.  
+I’m **Mehedi Hasan**, a **Full Stack Developer** from **Bangladesh** 🇧🇩.  
 
 I specialize in:  
-- Designing **scalable backend architectures**  
-- Building secure & performant **REST APIs** and services  
-- Managing **relational & NoSQL databases** (MySQL, MongoDB)  
-- Delivering modern **MERN + TypeScript** applications  
+- Designing **scalable backend architectures and modern frontend systems** 
+- Building secure & performant **REST APIs and Next.js applications** 
+- Managing **relational & NoSQL databases** (MySQL, MongoDB)   
+- Delivering modern **MERN + TypeScript + Next.js** applications with **responsive designs**
 - Writing **clean, maintainable code** with a focus on best practices  
 
 📌 Portfolio & Blog :
