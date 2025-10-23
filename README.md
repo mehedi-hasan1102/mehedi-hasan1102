@@ -67,12 +67,23 @@ I specialize in:
 
 ## 📊 GitHub Stats  
 
+
+
+
+
 <p align="center">
-  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=octocat&theme=github-dark">
-    <img alt="Mehedi's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/mehedi-hasan1102?cardType=octocat&theme=github-dark&preferLogin=false" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=mehedi-hasan1102&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="mehedi-hasan1102's Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mehedi-hasan1102&theme=vue-dark&hide_border=true" alt="mehedi-hasan1102's Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehedi-hasan1102&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="mehedi-hasan1102's Top Languages" />
 </p>
 
 ---
-
 <!-- End of README -->
+
+
