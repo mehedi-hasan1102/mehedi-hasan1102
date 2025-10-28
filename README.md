@@ -64,19 +64,14 @@ I specialize in:
 
 ---
 
-## 📊 GitHub Stats  
+# <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="32"> GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mehedi-hasan1102&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="mehedi-hasan1102's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mehedi-hasan1102&theme=chartreuse-dark&hide_border=true&include_all_commits=false&count_private=false" /><br/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=mehedi-hasan1102&theme=chartreuse-dark&hide_border=true" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehedi-hasan1102&theme=chartreuse-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mehedi-hasan1102&theme=vue-dark&hide_border=true" alt="mehedi-hasan1102's Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehedi-hasan1102&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="mehedi-hasan1102's Top Languages" />
-</p>
 
 ---
 <!-- End of README -->
