@@ -17,7 +17,7 @@ I’m **Mehedi Hasan**, a **Full Stack Developer** from **Bangladesh** 🇧🇩.
 I specialize in:  
 - Designing **scalable backend architectures and modern frontend systems**  
 - Building secure & performant **REST APIs and Next.js applications**  
-- Managing **relational & NoSQL databases** (MySQL, MongoDB)  
+- Managing **NoSQL databases** (MongoDB)  
 - Delivering modern **MERN + TypeScript + Next.js** applications with **responsive designs**  
 - Writing **clean, maintainable code** with a focus on best practices  
 
@@ -67,11 +67,11 @@ I specialize in:
 # <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="32"> GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mehedi-hasan1102&theme=chartreuse-dark&hide_border=true&include_all_commits=false&count_private=false" /><br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=mehedi-hasan1102&theme=chartreuse-dark&hide_border=true" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehedi-hasan1102&theme=chartreuse-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mehedi-hasan1102&show_icons=true&bg_color=00000000&title_color=469600&text_color=469600&icon_color=469600&hide_border=true" /><br/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=mehedi-hasan1102&theme=dark&hide_border=true&background=00000000&ring=469600&fire=469600&currStreakLabel=469600" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehedi-hasan1102&layout=compact&bg_color=00000000&title_color=469600&text_color=469600&hide_border=true" />
 </p>
 
-
 ---
+
 <!-- End of README -->
