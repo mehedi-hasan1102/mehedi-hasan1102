@@ -38,12 +38,12 @@ I specialize in:
 
 ### ⚙️ Backend & Databases  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,prisma,firebase" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
 </p>
 
 ### 🎨 Frontend & UI  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,next,redux,ts,js,tailwind,vite" />
+  <img src="https://skillicons.dev/icons?i=react,next,ts,js,tailwind,vite" />
 </p>
 
 ### 🔧 Tools & Deployment  
