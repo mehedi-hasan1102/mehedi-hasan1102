@@ -62,15 +62,7 @@ I specialize in:
   <a href="https://github.com/mehedi-hasan1102"><img src="https://img.shields.io/badge/GitHub-469600?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
----
 
-# <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="32"> GitHub Stats:
-
-<p align="center">
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=mehedi-hasan1102&show_icons=true&bg_color=00000000&title_color=469600&text_color=469600&icon_color=469600&hide_border=true" /><br/> -->
-  <img src="https://nirzak-streak-stats.vercel.app/?user=mehedi-hasan1102&theme=dark&hide_border=true&background=00000000&ring=469600&fire=469600&currStreakLabel=469600" /><br/>
-  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehedi-hasan1102&layout=compact&bg_color=00000000&title_color=469600&text_color=469600&hide_border=true" /> -->
-</p>
 
 ---
 
