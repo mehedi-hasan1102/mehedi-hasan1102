@@ -1,56 +1,69 @@
-# Hi, I’m Mehedi Hasan 👋
+<p align="center">
+  <img src="./Hero.png" alt="Mehedi Hasan | Frontend Engineer Banner" width="100%" />
+</p>
 
-📍 **Bangladesh** | 🎨 **Frontend Engineer** | ⚛️ **React & Next.js Specialist**
+# Hi, I’m Mehedi Hasan <img src="./gifs/Hi.gif" alt="Hi animation" width="40"/>
+
+
+📍 **Bangladesh** | ⚛️ **Frontend-Focused Full Stack Engineer** | 🚀 **MERN & Next.js**
 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-38BDF8?style=flat-square&logo=tailwindcss&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
-> Frontend-focused engineer building **fast, accessible, and maintainable web interfaces**.  
-> I specialize in translating designs and product requirements into **production-ready React and Next.js applications**.
+> Frontend-focused full stack engineer building **scalable, user-centric web applications**.  
+> I specialize in **React & Next.js on the frontend**, with solid experience designing **APIs, auth, and databases** on the backend.
 
 ---
 
 ## What I Do
 
-- Build **modern frontend applications** with React & Next.js (App Router)
-- Design **scalable component architectures**
-- Deliver **responsive, accessible UI** using Tailwind CSS
-- Optimize **performance, SEO, and UX**
-- Integrate frontend systems with REST APIs & auth flows
-- Write clean, type-safe code using **TypeScript**
+- Build **modern frontend interfaces** with React & Next.js (App Router)
+- Architect **scalable component systems**
+- Design and consume **RESTful APIs**
+- Implement authentication and role-based access
+- Manage **MongoDB** data models
+- Optimize for **performance, accessibility, and SEO**
+- Write clean, maintainable, type-safe code
 
 ---
 
-## Featured Work
+## Selected Projects
 
-- 🌱 **Plant Care Tracker** – Full-stack MERN app with reminders, dashboards, and clean UI  
-- 🍽️ **Food Garden** – Real-time food management app with Firebase sync & auth  
-- 📊 **ProjectPulse** – Client feedback & project health dashboard (Next.js + Tailwind)
+- 🌱 **Plant Care Tracker**  
+  MERN application for managing plant routines, reminders, and notes
 
-> More projects and live demos available on my portfolio.
+- 🍽️ **Food Garden**  
+  Real-time food management platform with Firebase auth and sync
+
+- 📊 **ProjectPulse**  
+  Full-stack Next.js app for client feedback, project health tracking, and dashboards
+
+> Live demos and source code available on my portfolio and GitHub.
 
 ---
 
-## Frontend Stack
+## Tech Stack
 
-**Core**
-- React, Next.js (SSR, SSG, SEO)
-- TypeScript, JavaScript (ESNext)
-- Tailwind CSS, modern CSS
-
-**UI & DX**
+**Frontend**
+- React, Next.js
+- TypeScript, JavaScript
+- Tailwind CSS
 - Framer Motion
-- Responsive & mobile-first layouts
-- Component-driven development
 
-**Tooling**
+**Backend**
+- Node.js, Express
+- MongoDB
+- Firebase
+- JWT Authentication
+
+**Tooling & Deployment**
 - Git & GitHub
 - Vercel, Netlify
-- Figma (design handoff)
+- Figma
 
 ---
 
@@ -67,12 +80,12 @@
 
 ---
 
-## What I’m Focused On Right Now
+## What I’m Working On
 
+- Building **production-ready full stack applications**
 - Deepening **Next.js App Router** expertise
-- Building **frontend-heavy, real-world projects**
-- Improving **UI performance & accessibility**
-- Preparing for **frontend / React internships & junior roles**
+- Improving **frontend architecture & performance**
+- Preparing for **frontend & full stack roles**
 
 ---
 
@@ -87,5 +100,4 @@
 
 ### Philosophy
 
-> “Clean UI, clear intent, scalable components.”  
-> I believe frontend engineering is where **performance, design, and usability meet**.
+> Build clean interfaces, solid backends, and ship software that solves real problems.
