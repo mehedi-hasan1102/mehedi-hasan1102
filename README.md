@@ -31,7 +31,7 @@
 
 ---
 
-## Selected Projects
+## Featured Projects
 
 - 🌱 **Plant Care Tracker**  
   MERN application for managing plant routines, reminders, and notes
