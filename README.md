@@ -84,7 +84,7 @@
 > “Build clean, scalable frontend architectures backed by solid APIs. Deliver software that solves real problems, not just features.”
 
 ---
-
-<p align="center">
+### ⭐ GitHub Insights
+<p align="start">
   <img src="https://yourinsights.vercel.app/api/insight?username=mehedi-hasan1102&theme=ocean&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true" alt="GitHub Insights" />
 </p>
