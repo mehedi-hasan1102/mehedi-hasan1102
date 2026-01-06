@@ -53,7 +53,9 @@
 <p align="start">
   <img src="https://git-hub-insights-phi.vercel.app/api/insight?username=mehedi-hasan1102&theme=github_dark&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true" alt="GitHub Insights" />
 </p>
+
 ---
+
 ## 💼 What I Do
 
 - Build **modern, responsive frontend interfaces** with React & Next.js (App Router)  
