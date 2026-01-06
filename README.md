@@ -32,11 +32,12 @@
 
 ## 🌟 Featured Projects
 
-- **🌱 Plant Care Tracker** – MERN app for managing plant routines, reminders, and notes  
-- **🍽️ Food Garden** – Real-time food management platform with Firebase auth & sync  
-- **📊 ProjectPulse** – Full-stack Next.js app for client feedback, project health, and dashboards  
+- **[🌱 Plant Care Tracker](https://plant-care-tracker-bd.web.app)** – MERN app for managing plant routines, reminders, and notes  
+- **[🍽️ Food Garden](https://food-garden-bd.web.app/)** – Real-time food management platform with Firebase auth & sync  
+- **[📊 Duranta Online](https://duranta-online.vercel.app/)** – Duranta Online Limited – Next.js app for internet & cable services with admin dashboard.
 
-> Live demos and source code available on my [portfolio](https://m-hasan.vercel.app) and GitHub.
+
+> More projects available on my [portfolio](https://m-hasan.vercel.app) and GitHub.
 
 ---
 
