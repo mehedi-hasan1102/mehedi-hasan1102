@@ -50,8 +50,9 @@
 ## ⭐ GitHub Insights
 
 
-<img src="https://yourinsights.vercel.app/api/insight?username=mehedi-hasan1102&theme=github_dark&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true" alt="GitHub Insights" />
-
+<p align="start">
+  <img src="https://git-hub-insights-phi.vercel.app/api/insight?username=mehedi-hasan1102&theme=github_dark&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true" alt="GitHub Insights" />
+</p>
 ---
 ## 💼 What I Do
 
