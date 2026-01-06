@@ -51,8 +51,8 @@
 
 
 <img src="https://yourinsights.vercel.app/api/insight?username=mehedi-hasan1102&theme=github_dark&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true" alt="GitHub Insights" />
----
 
+---
 ## 💼 What I Do
 
 - Build **modern, responsive frontend interfaces** with React & Next.js (App Router)  
