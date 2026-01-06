@@ -6,12 +6,23 @@
 
 📍 **Bangladesh** | ⚛️ **Frontend-Focused Full Stack Engineer** | 🚀 **MERN & Next.js Developer**
 
+
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-38BDF8?style=flat-square&logo=tailwindcss&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38BDF8?style=flat-square&logo=tailwindcss&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/-Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![JWT](https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
 
 > I build **scalable, user-centric web applications**.  
 > Specialized in **React & Next.js** for frontend, with strong **backend experience** in APIs, authentication, and databases.  
@@ -31,6 +42,17 @@
 > More projects available on my [portfolio](https://m-hasan.vercel.app) and GitHub.
 
 ---
+## 📊 GitHub Activity
+
+![GitHub Contribution Graph](https://ghchart.rshah.org/mehedi-hasan1102?bg_color=000000&color=FFFFFF&line=469600&point=FFFFFF)
+
+---
+## ⭐ GitHub Insights
+
+
+<img src="https://git-hub-insights-phi.vercel.app/api/insight?username=mehedi-hasan1102&theme=matrix&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true" alt="GitHub Insights" />
+
+---
 
 ## 💼 What I Do
 
@@ -42,13 +64,7 @@
 - Write **clean, maintainable, type-safe code** with TypeScript  
 
 
----
 
-## 🛠️ Tech Stack
-
-**Frontend:** React, Next.js, TypeScript, Tailwind CSS, Framer Motion  
-**Backend:** Node.js, Express, MongoDB, Firebase, JWT Authentication  
-**Tooling & Deployment:** Git, GitHub, Vercel, Netlify, Figma  
 
 ---
 
@@ -59,20 +75,9 @@
 
 ---
 
-## 📊 GitHub Activity
 
-![GitHub Contribution Graph](https://ghchart.rshah.org/mehedi-hasan1102?bg_color=000000&color=FFFFFF&line=469600&point=FFFFFF)
 
----
 
-## 🚀 Current Focus
-
-- Building **production-ready full-stack applications**  
-- Deepening **Next.js App Router & frontend architecture**  
-- Optimizing **performance, accessibility, and SEO**  
-- Preparing for **frontend & full-stack developer roles**  
-
----
 
 ## 📫 Connect With Me
 
@@ -89,8 +94,4 @@
 
 ---
 
-## ⭐ GitHub Insights
-
-
-<img src="https://git-hub-insights-phi.vercel.app/api/insight?username=mehedi-hasan1102&theme=matrix&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true" alt="GitHub Insights" />
 
