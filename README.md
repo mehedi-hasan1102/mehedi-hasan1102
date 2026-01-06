@@ -32,10 +32,12 @@
 
 ## 🌟 Featured Projects
 
-- **[🌱 Plant Care Tracker](https://plant-care-tracker-bd.web.app)** – MERN app for managing plant routines, reminders, and notes  
-- **[🍽️ Food Garden](https://food-garden-bd.web.app/)** – Real-time food management platform with Firebase auth & sync  
-- **[📊 Duranta Online](https://duranta-online.vercel.app/)** – Duranta Online Limited – Next.js app for internet & cable services with admin dashboard.
-
+- **[🌱 Plant Care Tracker](https://plant-care-tracker-bd.web.app)** – MERN app for managing plant routines, reminders, and notes.  
+- **[🍽️ Food Garden](https://food-garden-bd.web.app/)** – Real-time food management platform with Firebase auth & sync.  
+- **[📡 Duranta Online](https://duranta-online.vercel.app/)** – Next.js app for internet & cable services with admin dashboard.  
+- **[✅ Task Manager](https://meheditodo.vercel.app/)** – Next.js & TypeScript app to create, update, and organize tasks with real-time updates.  
+- **[🎯 Active Arena](https://buildbox-a12.web.app/)** – Playground management app with real-time sync and JWT auth.  
+- **[🎟️ Event Explorer](https://event-explorer-bd.netlify.app/)** – Full-stack event booking platform to browse & reserve local events.
 
 > More projects available on my [portfolio](https://m-hasan.vercel.app) and GitHub.
 
