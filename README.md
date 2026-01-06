@@ -19,17 +19,6 @@
 
 ---
 
-## 💼 What I Do
-
-- Build **modern, responsive frontend interfaces** with React & Next.js (App Router)  
-- Architect **reusable, scalable component systems**  
-- Design and integrate **RESTful APIs & authentication flows**  
-- Manage **MongoDB & Firebase databases**  
-- Optimize **performance, accessibility, SEO, and UX**  
-- Write **clean, maintainable, type-safe code** with TypeScript  
-
----
-
 ## 🌟 Featured Projects
 
 - **[🌱 Plant Care Tracker](https://plant-care-tracker-bd.web.app)** – MERN app for managing plant routines, reminders, and notes.  
@@ -40,6 +29,18 @@
 - **[🎟️ Event Explorer](https://event-explorer-bd.netlify.app/)** – Full-stack event booking platform to browse & reserve local events.
 
 > More projects available on my [portfolio](https://m-hasan.vercel.app) and GitHub.
+
+---
+
+## 💼 What I Do
+
+- Build **modern, responsive frontend interfaces** with React & Next.js (App Router)  
+- Architect **reusable, scalable component systems**  
+- Design and integrate **RESTful APIs & authentication flows**  
+- Manage **MongoDB & Firebase databases**  
+- Optimize **performance, accessibility, SEO, and UX**  
+- Write **clean, maintainable, type-safe code** with TypeScript  
+
 
 ---
 
