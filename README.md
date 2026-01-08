@@ -1,6 +1,6 @@
-<p align="center">
+<!-- <p align="center">
   <img src="./Hero.png" alt="Mehedi Hasan | Frontend Engineer Banner" width="100%" />
-</p>
+</p> -->
 
 # Hi, I’m Mehedi Hasan <img src="./gifs/Hi.gif" alt="Hi animation" width="40"/>
 
