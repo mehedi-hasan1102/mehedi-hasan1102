@@ -62,7 +62,7 @@
 
 
 <p align="start">
-    <img src="https://ghinsights.vercel.app/api/insight?username=mehedi-hasan1102&theme=github_dark&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=false" alt="GitHub Insights" />
+    <img src="https://ghinsights.vercel.app/api/insight?username=mehedi-hasan1102&theme=ocean&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=false" alt="GitHub Insights" />
 </p>
 
 ---
