@@ -83,7 +83,7 @@
 
 ## 🌐 Portfolio & Writing
 
-- **Portfolio:** [m-hasan.vercel.app](https://m-hasan.vercel.app)  
+- **Portfolio:** [m-hasan.vercel.app](https://www.mehedi-hasan.me)  
 - **Blog:** [dev.to/mehedihasan1102](https://dev.to/mehedihasan1102)  
 
 ---
