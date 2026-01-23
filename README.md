@@ -50,7 +50,7 @@
 - **[🎯 Active Arena](https://buildbox-a12.web.app/)** – Playground management app with real-time sync and JWT auth.  
 - **[🎟️ Event Explorer](https://event-explorer-bd.netlify.app/)** – Full-stack event booking platform to browse & reserve local events.
 
-> More projects available on my [portfolio](https://m-hasan.vercel.app) and GitHub.
+> More projects available on my [portfolio](https://www.mehedi-hasan.me) and GitHub.
 
 ---
 ## 📊 GitHub Activity
@@ -83,7 +83,7 @@
 
 ## 🌐 Portfolio & Writing
 
-- **Portfolio:** [m-hasan.vercel.app](https://www.mehedi-hasan.me)  
+- **Portfolio:** [www.mehedi-hasan.me](https://www.mehedi-hasan.me)  
 - **Blog:** [dev.to/mehedihasan1102](https://dev.to/mehedihasan1102)  
 
 ---
@@ -95,7 +95,7 @@
 ## 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mehedi-hasan1102)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://m-hasan.vercel.app)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://www.mehedi-hasan.me)
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mehedi.hasan11023@gmail.com)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mehedi-hasan1102)
 [![X](https://img.shields.io/badge/-X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/mehedihasan1102)
