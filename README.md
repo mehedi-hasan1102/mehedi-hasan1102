@@ -86,7 +86,7 @@
 ## 🌐 Portfolio & Writing
 
 - **Portfolio:** [www.mehedi-hasan.me](https://www.mehedi-hasan.me)  
-- **Blog:** [https://blog.mehedi-hasan.me/](https://blog.mehedi-hasan.me)  
+- **Blog:** [https://blog.mehedi-hasan.me](https://blog.mehedi-hasan.me)  
 
 ---
 
