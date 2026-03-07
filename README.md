@@ -51,6 +51,20 @@
 - **[🎟️ Event Explorer](https://event-explorer-bd.netlify.app/)** – Full-stack event booking platform to browse & reserve local events.
 
 > More projects available on my [portfolio](https://www.mehedi-hasan.me) and GitHub.
+---
+
+## 📞 Book a 20-Minute Intro Call
+
+<p>
+  <a href="https://www.mehedi-hasan.me/book-call" target="_blank">
+    <img src="https://img.shields.io/badge/Book%20a%2020--min%20Intro%20Call-0A66C2?style=for-the-badge&logo=googlemeet&logoColor=white" />
+  </a>
+</p>
+
+> Want to discuss a project, collaboration, or job opportunity?  
+> **Schedule a quick 20-minute intro call with me.**
+
+---
 
 ---
 ## 📊 GitHub Activity
