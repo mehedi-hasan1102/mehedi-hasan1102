@@ -69,15 +69,15 @@
 ---
 ## 📊 GitHub Activity
 
-![GitHub Contribution Graph](https://ghchart.rshah.org/mehedi-hasan1102?bg_color=000000&color=FFFFFF&line=469600&point=FFFFFF)
+![GitHub Contribution Graph](https://ghchart.rshah.org/themehedihq?bg_color=000000&color=FFFFFF&line=469600&point=FFFFFF)
 
 ---
 ## ⭐ GitHub Stats
 
 
 <p align="start">
- <!-- <img src="https://ghinsights.vercel.app/api/insight?username=mehedi-hasan1102&theme=github_dark&graph=false&languages=false&streak=true&stats=false&header=false&summary=false&profile=false" alt="GitHub Insights" /> -->
-  <img src="https://ghinsights.vercel.app/api/insight?username=mehedi-hasan1102&theme=github_dark&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=false" alt="GitHub Insights" />
+ <!-- <img src="https://ghinsights.vercel.app/api/insight?username=themehedihq&theme=github_dark&graph=false&languages=false&streak=true&stats=false&header=false&summary=false&profile=false" alt="GitHub Insights" /> -->
+  <img src="https://ghinsights.vercel.app/api/insight?username=themehedihq&theme=github_dark&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=false" alt="GitHub Insights" />
 
 </p>
 
@@ -110,11 +110,11 @@
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mehedi-hasan1102)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/themehedihq)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://www.mehedi-hasan.me)
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mehedi.hasan16777@gmail.com)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mehedi-hasan1102)
-[![X](https://img.shields.io/badge/-X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/mehedihasan1102)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/themehedihq)
+[![X](https://img.shields.io/badge/-X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/themehedihq)
 
 
 ---
