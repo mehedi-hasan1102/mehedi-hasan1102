@@ -71,15 +71,13 @@
 
 ![GitHub Contribution Graph](https://ghchart.rshah.org/themehedihq?bg_color=000000&color=FFFFFF&line=469600&point=FFFFFF)
 
----
-## ⭐ GitHub Stats
 
 
-<p align="start">
+<!-- <p align="start"> -->
  <!-- <img src="https://ghinsights.vercel.app/api/insight?username=themehedihq&theme=github_dark&graph=false&languages=false&streak=true&stats=false&header=false&summary=false&profile=false" alt="GitHub Insights" /> -->
-  <img src="https://ghinsights.vercel.app/api/insight?username=themehedihq&theme=github_dark&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=false" alt="GitHub Insights" />
+  <!-- <img src="https://ghinsights.vercel.app/api/insight?username=themehedihq&theme=github_dark&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=false" alt="GitHub Insights" /> -->
 
-</p>
+<!-- </p> -->
 
 ---
 
