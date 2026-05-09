@@ -53,7 +53,7 @@
 > More projects available on my [portfolio](https://www.mehedi-hasan.me) and GitHub.
 ---
 
-## � View My Resume
+## 📄 Resume
 
 <p>
   <a href="https://www.mehedi-hasan.me/Resume_of_Mehedi_Hasan.pdf" target="_blank">
